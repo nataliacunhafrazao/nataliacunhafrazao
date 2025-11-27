@@ -3,7 +3,7 @@
 **`Desenvolvedora Front-End e UI/UX designer JR.
 `**
 
-Me chamo Natália,Graduada em Tecnologia em Sistemas para Internet no Instituto Federal de Brasília (IFB), com formação técnica em Administração e mais de dois anos de experiência em análise de sistemas, suporte administrativo e design UX/UI. Apaixonada por UX Design, estou me especializando na área por meio de cursos como "Formação UX Design" (Alura) e "UX/UI: Fundamentos para o Design de Interface" (USP), com foco em criar interfaces acessíveis, intuitivas e centradas no usuário. Atualmente, busco oportunidades como UX Designer para aplicar minha expertise em prototipação, análise de requisitos e design de experiências impactantes. Acesse meu portifólio de UX/UI em:"{Portifólio}(https://spur-fixing-42509408.figma.site/)"
+Me chamo Natália,graduada em Tecnologia em Sistemas para Internet no Instituto Federal de Brasília (IFB), com formação técnica em Administração e mais de dois anos de experiência em análise de sistemas, suporte administrativo e design UX/UI. Apaixonada por UX Design, estou me especializando na área por meio de cursos como "Formação UX Design" (Alura) e "UX/UI: Fundamentos para o Design de Interface" (USP), com foco em criar interfaces acessíveis, intuitivas e centradas no usuário. Atualmente, busco oportunidades como UX Designer para aplicar minha expertise em prototipação, análise de requisitos e design de experiências impactantes. Acesse meu portifólio de UX/UI em:"{Portifólio}(https://spur-fixing-42509408.figma.site/)"
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
